@@ -26,3 +26,12 @@ An AI assistant that reads uploaded research PDFs or TXT files and can:
 ```bash
 git clone https://github.com/Aditya-sharma112245/smart-research-assistant.git
 cd smart-research-assistant
+
+
+---
+
+## 📭 API Usage Note
+
+This application uses **Streamlit** and does not expose a REST API.  
+Hence, a Postman collection or API dump is **not applicable** for this submission.
+
